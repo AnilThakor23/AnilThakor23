@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AnilThakor23
+- 👋 Hi, I’m Anil Thakor,
 -  I’m a web-developer and a Ux/Ui designer
 -  How to reach me : emailid ==> apcode23@gmail.com
 

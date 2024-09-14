@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Anil Thakor,
--  I’m a web-developer and a Ux/Ui designer
--  How to reach me : emailid ==> apcode23@gmail.com
+👋 Welcome to my profile! I'm Anil Thakor, a versatile professional:
 
+🌐 Front-End Web Developer                                                             
+🎨 UI/UX Designer                        
+💼 Freelancer                            
+💡 Problem Solver                             
+🗣️ Skilled Public Speaker       
 
-<!---
-AnilThakor23/AnilThakor23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Feel free to connect via email at "apcode23@gmail.com." Let's collaborate and create something amazing! 😊🚀
